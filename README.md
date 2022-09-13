@@ -1,0 +1,2 @@
+# CoinGuard
+Coin Guard Bot
